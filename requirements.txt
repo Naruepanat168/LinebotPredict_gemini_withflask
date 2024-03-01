@@ -1,0 +1,7 @@
+opencv-python
+python-dotenv
+line-bot-sdk
+flask
+tensorflow
+numpy
+google-generativeai==0.3.2
