@@ -1,3 +1,3 @@
 <div align='center'>
-  <img src="./doc/images/ocr_result.gif" width="60%">
+  <img src="/Users/naruepanatboonyung/Downloads/appPredictmongoXgemini_api/LINE_capture_730987741.167678.JPG" width="60%">
 </div>
